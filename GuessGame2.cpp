@@ -1,4 +1,4 @@
-// Activity 2: Number guessing game.
+// Guessing Game
 #include <iostream>
 #include <string>
 
